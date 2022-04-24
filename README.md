@@ -1,14 +1,11 @@
-# 🏗 scaffold-eth - 🔵 Loogies SVG NFT
+# 🏗 scaffold-eth - 🔵 Worlds SVG NFT
+
+Loot derivative with linked ERC20 yielding capability.
+
+Each SVG NFT represents one World in a newly discovered universe.
 
 
-```bash
-git clone https://github.com/austintgriffith/scaffold-eth.git loogies-svg-nft
-
-cd loogies-svg-nft
-
-git checkout loogies-svg-nft
-```
-
+To play around with the code make sure you cd into the target directory.
 ```bash
 
 yarn install
@@ -36,7 +33,6 @@ yarn chain
 
 
 ```bash
-cd loogies-svg-nft
 
 yarn deploy
 
